@@ -1,0 +1,42 @@
+.jdl{
+	margin: 10px 15px;
+	padding: 5px 0;
+	background: cyan;
+	border-radius: 15px;
+	}
+.h1{
+	color: blue; 
+	text-align: center;
+	font-family: sans-serif;
+	text-shadow: 1px 1px #555
+}
+.menu{
+	margin': 10px 15px;
+	padding: 10p;
+	background: #ecfa91; 
+	display: grid; 
+	grid-template-columns: repeat(12, 1fr); 
+	column-gap: 12px; border-radius: 15px;
+	}
+.grid1{
+	margin: 10px; 
+	padding:  0 10px; 
+	background: #90e07e;
+	grid-column: 1 / span 3;
+}
+.pilihan{
+	margin: 10px 0; 
+	background: green; 
+	padding: 10px;
+}
+.img{margin: 10px; 
+	padding: 10px; 
+	background: #90e07e; 
+	grid-column: 4 / span 9;
+}
+	.ukuran{display: block; 
+		margin: 0 auto; 
+		width: 30%
+	}
+	.warna{color: #0b872c;
+	}
